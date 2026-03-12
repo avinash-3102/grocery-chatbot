@@ -1,0 +1,218 @@
+{
+    "black_beans": {
+        "name": "Black Beans",
+        "category": "Legume",
+        "description": "Black beans are a popular legume used widely in Brazilian and Latin American cooking.",
+        "nutrition": {
+            "calories": "339 kcal per 100g",
+            "protein": "21 g",
+            "carbohydrates": "62 g",
+            "fiber": "16 g",
+            "fat": "0.9 g"
+        },
+        "health_benefits": [
+            "High in plant protein",
+            "Supports digestion",
+            "Rich in antioxidants",
+            "Helps maintain heart health"
+        ],
+        "common_dishes": [
+            "Feijoada",
+            "Black bean soup",
+            "Rice with black beans"
+        ],
+        "storage": "Store in dry airtight container",
+        "shelf_life": "1\u20132 years"
+    },
+    "beans": {
+        "name": "Beans",
+        "category": "Legume",
+        "description": "Beans are edible seeds from plants in the legume family and are a staple food in many cuisines.",
+        "nutrition": {
+            "calories": "347 kcal per 100g",
+            "protein": "21 g",
+            "carbohydrates": "63 g",
+            "fiber": "15 g",
+            "fat": "1 g"
+        },
+        "health_benefits": [
+            "Rich source of protein",
+            "Improves digestion",
+            "Helps control blood sugar",
+            "Supports heart health"
+        ],
+        "common_dishes": [
+            "Bean stew",
+            "Rice and beans",
+            "Bean soup"
+        ],
+        "storage": "Store in cool dry place",
+        "shelf_life": "1\u20132 years"
+    },
+    "bread": {
+        "name": "Bread",
+        "category": "Grain Product",
+        "description": "Bread is a staple food made from flour and water baked into loaves.",
+        "nutrition": {
+            "calories": "265 kcal per 100g",
+            "protein": "9 g",
+            "carbohydrates": "49 g",
+            "fiber": "2.7 g",
+            "fat": "3.2 g"
+        },
+        "health_benefits": [
+            "Provides energy",
+            "Contains carbohydrates",
+            "Whole grain bread contains fiber"
+        ],
+        "common_dishes": [
+            "Sandwich",
+            "Toast",
+            "Garlic bread"
+        ],
+        "storage": "Keep in bread box or sealed bag",
+        "shelf_life": "3\u20137 days"
+    },
+    "coffee": {
+        "name": "Coffee",
+        "category": "Beverage",
+        "description": "Coffee is a brewed drink prepared from roasted coffee beans.",
+        "nutrition": {
+            "calories": "2 kcal per cup",
+            "protein": "0.3 g",
+            "carbohydrates": "0 g",
+            "fiber": "0 g",
+            "fat": "0 g"
+        },
+        "health_benefits": [
+            "Increases alertness",
+            "Contains antioxidants",
+            "May improve metabolism"
+        ],
+        "common_dishes": [
+            "Espresso",
+            "Cappuccino",
+            "Latte"
+        ],
+        "storage": "Store in airtight container away from light",
+        "shelf_life": "6 months"
+    },
+    "flour": {
+        "name": "Flour",
+        "category": "Grain Product",
+        "description": "Flour is powder made by grinding grains like wheat and used in baking.",
+        "nutrition": {
+            "calories": "364 kcal per 100g",
+            "protein": "10 g",
+            "carbohydrates": "76 g",
+            "fiber": "2.7 g",
+            "fat": "1 g"
+        },
+        "health_benefits": [
+            "Provides energy",
+            "Used for baking foods",
+            "Whole grain flour contains fiber"
+        ],
+        "common_dishes": [
+            "Bread",
+            "Cakes",
+            "Pancakes"
+        ],
+        "storage": "Store in cool dry place",
+        "shelf_life": "6\u201312 months"
+    },
+    "milk": {
+        "name": "Milk",
+        "category": "Dairy Product",
+        "description": "Milk is a nutrient-rich liquid food produced by mammals and widely consumed.",
+        "nutrition": {
+            "calories": "42 kcal per 100ml",
+            "protein": "3.4 g",
+            "carbohydrates": "5 g",
+            "fiber": "0 g",
+            "fat": "1 g"
+        },
+        "health_benefits": [
+            "Rich in calcium",
+            "Supports bone health",
+            "Good protein source"
+        ],
+        "common_dishes": [
+            "Cereal with milk",
+            "Milkshake",
+            "Cappuccino"
+        ],
+        "storage": "Keep refrigerated",
+        "shelf_life": "5\u20137 days after opening"
+    },
+    "oil": {
+        "name": "Cooking Oil",
+        "category": "Cooking Ingredient",
+        "description": "Cooking oil is plant-based oil used for frying, baking and food preparation.",
+        "nutrition": {
+            "calories": "884 kcal per 100g",
+            "protein": "0 g",
+            "carbohydrates": "0 g",
+            "fiber": "0 g",
+            "fat": "100 g"
+        },
+        "health_benefits": [
+            "Provides essential fatty acids",
+            "Helps absorb fat soluble vitamins",
+            "Provides energy"
+        ],
+        "common_dishes": [
+            "Fried foods",
+            "Salad dressing",
+            "Cooking meals"
+        ],
+        "storage": "Store in cool dark place",
+        "shelf_life": "6\u201312 months"
+    },
+    "rice": {
+        "name": "Rice",
+        "category": "Grain",
+        "description": "Rice is one of the most widely consumed staple foods in the world.",
+        "nutrition": {
+            "calories": "130 kcal per 100g",
+            "protein": "2.7 g",
+            "carbohydrates": "28 g",
+            "fiber": "0.4 g",
+            "fat": "0.3 g"
+        },
+        "health_benefits": [
+            "Good energy source",
+            "Gluten free",
+            "Easy to digest"
+        ],
+        "common_dishes": [
+            "Rice and beans",
+            "Fried rice",
+            "Rice pudding"
+        ],
+        "storage": "Store in airtight container",
+        "shelf_life": "1\u20132 years"
+    },
+    "sugar": {
+        "name": "Sugar",
+        "category": "Sweetener",
+        "description": "Sugar is a sweet crystalline substance obtained mainly from sugarcane.",
+        "nutrition": {
+            "calories": "387 kcal per 100g",
+            "protein": "0 g",
+            "carbohydrates": "100 g",
+            "fiber": "0 g",
+            "fat": "0 g"
+        },
+        "health_benefits": [
+            "Provides quick energy"
+        ],
+        "common_dishes": [
+            "Desserts",
+            "Cakes",
+            "Sweet beverages"
+        ],
+        "storage": "Store in dry container",
+        "shelf_life": "Indefinite if stored properly"
+    }
+}
